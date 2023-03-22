@@ -1,0 +1,1 @@
+schtasks /create /tn "LojaSE" /xml C:\Users\micao\OneDrive\dev_git\lojinhaGau\meu_monitoramento\scheduler_task.xml

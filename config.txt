@@ -1,0 +1,5 @@
+customer_id = CUSTOMER ID 
+api_key = API_KEY
+phone_number = 55XXXXXXXXXXX
+paginaLoja = https://streamelements.com/gaules/store
+tempo_de_monitoramento = 600
