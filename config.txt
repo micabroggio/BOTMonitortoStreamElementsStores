@@ -1,5 +1,4 @@
-customer_id = CUSTOMER ID 
-api_key = API_KEY
-phone_number = 55XXXXXXXXXXX
 paginaLoja = https://streamelements.com/gaules/store
 tempo_de_monitoramento = 600
+email = xxxxx.bot@xxxxx.com [SEU EMAIL]
+password = 123456789 [SUA SENHA]
